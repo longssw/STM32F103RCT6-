@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "task.h": "c",
+        "bsp_key.h": "c",
+        "string.h": "c",
+        "stdarg.h": "c",
+        "freertos.h": "c",
+        "stdio.h": "c",
+        "bsp_iic_oled.h": "c",
+        "bsp_oled_font.h": "c",
+        "stm32f10x.h": "c",
+        "bsp_tb6612.h": "c",
+        "elog.h": "c",
+        "bsp_usart.h": "c",
+        "bsp_pwm.h": "c",
+        "bsp_init.h": "c",
+        "task_init.h": "c",
+        "task_msg.h": "c",
+        "stdbool.h": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "cstdlib": "c",
+        "math.h": "c",
+        "MATH.H": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
